@@ -11,5 +11,10 @@ Follow the steps to solve the problem:
 
 Use a recursive function and do the following:
 i) Traverse numbers to calculate sum of adjacent elements and mod with 10 to get single least significant digit as numbers[i]=(numbers[i]+numbers[i+1])%10
+
+
+
 ii) Delete the last element from the array, as one element will be reduced after each operation.
+
+
 iii) Continue this procedure until only 2 elements are left.
